@@ -1,0 +1,13 @@
+[ERROR] 2022-08-12 15:32:30.391 [main] LogginDemo - this is Error logger
+[WARN ] 2022-08-12 15:32:30.396 [main] LogginDemo - this is warn logger
+[FATAL] 2022-08-12 15:32:30.397 [main] LogginDemo - this is warn logger
+[ERROR] 2022-08-12 15:39:03.973 [main] LogginDemo - this is Error logger
+[WARN ] 2022-08-12 15:39:03.978 [main] LogginDemo - this is warn logger
+[FATAL] 2022-08-12 15:39:03.978 [main] LogginDemo - this is warn logger
+[ERROR] 2022-08-12 15:40:05.181 [main] LogginDemo - this is Error logger
+[WARN ] 2022-08-12 15:40:05.185 [main] LogginDemo - this is warn logger
+[FATAL] 2022-08-12 15:40:05.185 [main] LogginDemo - this is warn logger
+[ERROR] 2022-08-12 15:43:13.472 [main] LogginDemo - this is Error logger
+[WARN ] 2022-08-12 15:43:13.480 [main] LogginDemo - this is warn logger
+[FATAL] 2022-08-12 15:43:13.481 [main] LogginDemo - this is warn logger
+[INFO ] 2022-08-12 16:37:34.756 [main] AssignLeavePage - Dropwond selected
